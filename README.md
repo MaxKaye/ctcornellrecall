@@ -1,13 +1,6 @@
-# week1
-
-## System Diagram 
-
-
-## possible Wedges
-
-
-## User Stories
-* As a grocery retailer at Costco, I received an FDA notification that the pineapple fried rice  that came in three days ago is polluted by a fatal virus. I immediately stopped selling the product and sent all the remaining ones to the authorities. 
-
-
-## weekly status report
+# Bloomberg
+## Company Division/Team: Core Financial Apps
+## Company Website: http://www.bloomberg.com/company
+## Company Challenge:
+How might we notify grocery buyers of Food and Drug Administration (FDA) food recalls faster and more pervasively than the ineffective and bureaucratic status quo, preventing consumer illness and deaths and saving companies millions in fees and recall cos
+## Domain: Health Tech, Social Media, Consumer Mobile
