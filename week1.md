@@ -1,7 +1,7 @@
 # week1
 
 ## System Diagram 
-* Actors:
+* *Actors*:
 FDA, Farmers,Packaging, Manufacturing, Food Companies, Other Corporations, Transportation, Storage, Restaurants, Grocery Stores, Bloomberg content source, Buyers Family, Insurance, Border Control, Databases, Central Database, Media, Grocery Buyers, Doctors, Law Enforcement, Lawyers, Waste Removal, Schools
 * Components and Objects: Machine, Virus, Profit, Reputation, Cars, Refrigerator, Factory, Probability f Poison Data
 Probability of illness given poison data, common risky foods database, Insurance, Treatment, Receipts (from Hospitals), Hospital Records and Reports, Lawsuits (against corporations, farmers, etc..) database, Documents from lawyers, notification, communication of issue, Analysis --> what? Affected consumer database, Reporting, Medical treatment, Central Databases
