@@ -35,4 +35,18 @@ Probability of illness given poison data, common risky foods database, Insurance
 
 
 ## weekly status report
-to be filled
+* Week behind:
+  * Sketched preliminary system diagram and identified key actors/wedges
+  * Traveled to Bloomberg office and met with Company Champion and three other Bloomberg individuals interested in the challenge
+  * Set up weekly conference calls with Company Champion; we plan on pitching fully-fleshed idea to the Bloomberg team within the next month
+  * Signed CSP-CE
+  * Set up Github, Slack, and Dropbox for the team’s communication           
+* Week ahead:
+  * We will scope the problem and commit to the aspect on which we want to direct our focus
+  * We will discuss what is the most effective way of solving the problem (mobile apps, web apps, combo of mobile with web)
+  * Deeper dive on what the FDA currently offers – how can we build off pre-existing systems?
+* Risks:
+  * Issue can be approached from many different angles, we need to focus on one single approach and commit to it
+  * Massive amount of data out there (consumer data from loyalty programs, recall data from FDA, media reports on the issue) – how to analyze and parse relevant data and make it useful for our project?
+
+
