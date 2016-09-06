@@ -27,6 +27,7 @@ Probability of illness given poison data, common risky foods database, Insurance
 * Receipts (after the fact?)
 * existing databases
 * consumer emails and texts
+* competition among the customers
 
 ## User Stories
 * As a grocery retailer at Costco, I received an FDA notification that the pineapple fried rice  that came in three days ago is polluted by a fatal virus. I immediately stopped selling the product and sent all the remaining ones to the authorities. 
