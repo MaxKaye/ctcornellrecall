@@ -8,8 +8,9 @@ to be filled
 
 ## User Stories
 * As a grocery retailer at Costco, I received an FDA notification that the pineapple fried rice  that came in three days ago is polluted by a fatal virus. I immediately stopped selling the product and sent all the remaining ones to the authorities. 
-* to be filled
-* to be filled
+* A mother goes to grocery store and buys produce. She then goes home and puts food away. She uses the food over the next two weeks to feed her family. The FDA then issues a recall on an item she bought. How is she supposed to become aware of this issue?
+* I’m an officer of FDA and just receive a information that ‘ItemX’ sold in Queen and Brooklyn on ‘DateX’ is actually ‘defective products’. As my duty, I need to recall all items sold in both areas as soon as possible. Therefore, I ask Bloomberg Core Financial Apps for the data about specific people who bought the ‘ItemX’ on ‘DateX’.Then I used those data to alert those people by sending email or message. But since the data only includes customers from Large-scale chains supermarket, how to alert people who didn’t leave a clue or data is a problem beyond me.
+
 
 ## weekly status report
 to be filled
