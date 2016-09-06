@@ -19,15 +19,16 @@ Probability of illness given poison data, common risky foods database, Insurance
  * inform customers of product recalls around the world real time?
 
 ## Possible Wedges
-* pressure from media
-* packaging
-* social nudges
+* pressure from media x
+* packaging x
+* social nudges x
 * behavioral economics
 * simple information display / UX / Usability
 * Receipts (after the fact?)
-* existing databases
+* existing databases 
 * consumer emails and texts
 * competition among the customers
+* speed
 
 ## User Stories
 * As a grocery retailer at Costco, I received an FDA notification that the pineapple fried rice  that came in three days ago is polluted by a fatal virus. I immediately stopped selling the product and sent all the remaining ones to the authorities. 
