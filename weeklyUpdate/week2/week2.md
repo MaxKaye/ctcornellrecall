@@ -5,7 +5,7 @@
 
 ## Narrative
 * to be filled by Yon
-* 
+
 ## Updated User Stories
 
 ## Updated System Diagram
