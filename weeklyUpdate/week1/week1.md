@@ -51,4 +51,6 @@ Probability of illness given poison data, common risky foods database, Insurance
   * Issue can be approached from many different angles, we need to focus on one single approach and commit to it
   * Massive amount of data out there (consumer data from loyalty programs, recall data from FDA, media reports on the issue) – how to analyze and parse relevant data and make it useful for our project?
 
-
+## in-class progress
+![alt text](https://github.com/MaxKaye/ctcornellrecall/blob/master/weeklyUpdate/week1/brainStormWeek1.jpg "brainStorm")
+![alt text](https://github.com/MaxKaye/ctcornellrecall/blob/master/weeklyUpdate/week1/moreBrainStormWeek1.jpg "wedge")
