@@ -37,7 +37,8 @@ Probability of illness given poison data, common risky foods database, Insurance
 
 ## User Stories
 
-Alert
+Feature: Alert
+
 As a grocery store general manager, I want to have reliable data with a simple user interface that analyzes what food at my store has been recalled, so that I can understand the general landscape of specific products that are currently dangerous in the market without having to go to the FDA website
 
 As a grocery shopper, I want to receive alerts when a consumable item that I have purchased has been recalled so that I do not get food poisoning
@@ -47,6 +48,7 @@ As a grocery shopper, I want to receive alerts when a consumable item that I hav
 As a grocery shopper, I want to have an all in one loyalty rewards system, so that no matter where I shop, all of my points will be aggregated and redeemed on one app
 
 Feature: Safety Rating
+
 As a grocery store cashier, I want a seamless way for customers to return items so that I can compile organized data on why the product is recalled
 
 As a grocery store general manager, I want to have reliable data that analyzes which food at my store has been recalled, and how that compares to other stores, so that I can decide which producers, companies, and brands to buy from in the future
