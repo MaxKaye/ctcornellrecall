@@ -1,7 +1,7 @@
 # week2
 
 ## Product Sketches
-* 
+
 ![alt text](https://github.com/MaxKaye/ctcornellrecall/blob/master/weeklyUpdate/week2/Week2.JPG "Product Sketches")
 
 ## Narrative
