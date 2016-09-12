@@ -7,7 +7,7 @@
 ## Narrative
 * to be filled by Yon
 
-## Updated User Stories
+## Updated Personas
 User Story:
 
 Date#1:
