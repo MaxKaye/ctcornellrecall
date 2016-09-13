@@ -5,7 +5,7 @@
 ![alt text](https://github.com/MaxKaye/ctcornellrecall/blob/master/weeklyUpdate/week2/Week2.JPG "Product Sketches")
 
 ## Narrative
-* to be filled by Yon
+* The user (we will call her Sarah) downloads an app called Bloomberg Health Services. Sarah goes to the grocery store and buys food. At checkout Sarah says to the cashier “Can you scan my health app?” She holds out her phone and displays a barcode which the cashier scans. The scanned items are then automatically recorded in Sarahs health app. A week later the FDA issues a recall on a bottle of Ketchup which Sarah but a week ago but has not used yet. The App then sends her a nitrification to inform her that the product she bought has been recalled. Sarah then takes the bottle of ketchup and throws it out.
 
 ## Updated Personas
 User Story:
