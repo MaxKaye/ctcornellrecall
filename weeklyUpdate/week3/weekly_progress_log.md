@@ -5,7 +5,11 @@
 * established team and individual goals
 * assigned tasks and deliverables for coming week
 
-### Commit graph
+### Repository Contributors
+<html> https://github.com/MaxKaye/ctcornellrecall/graphs/contributors </html>
+### Repository Commits
+<html> https://github.com/MaxKaye/ctcornellrecall/graphs/commit-activity </html>
+![alt text] (https://github.com/carolinapeisch/ctcornellrecall/blob/master/commit_graph_week3.JPG "Commit Graph")
 
 ### Links to new artifacts
 * Max's Research <html> https://docs.google.com/document/d/1-qhHHQ8wP7HcqTwMgysXmn0713qcqZ90SLaZIvMQ6UI/edit </html>
