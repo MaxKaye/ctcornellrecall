@@ -21,11 +21,3 @@
 
 ## Architecture Diagram (Mingyu and Bruce to fill out)
 
-
-## Weekly Progress Log:
-* Progress this week
-* Commit graph
-* Links to new artifacts
-* Plan for next week
-* Key learnings and actions from your weekly retro
-* Risks
