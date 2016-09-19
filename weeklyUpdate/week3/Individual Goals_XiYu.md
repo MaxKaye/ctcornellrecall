@@ -1,5 +1,5 @@
 
-
+# Yu Xi's Goal
 * Be familiar with the process of how an app is designed and produced.
 * Learn how software engineers work in the real world.
 * Cooperate with teammate with different background to find the blind spots of my mind.
