@@ -19,5 +19,7 @@
 * Specify Software and core features so we can begin developing app
 * We want to achieve this through collaboration with the student team as well as the company stakeholders. 
 
-## Architecture Diagram (Mingyu and Bruce to fill out)
+## Architecture Diagram 
+![alt text](https://github.com/MaxKaye/ctcornellrecall/blob/master/weeklyUpdate/week3/system_arch.png "system Architecture")
+
 
