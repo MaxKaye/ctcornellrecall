@@ -28,3 +28,17 @@ NOTE: all of the following look up site may not have a complete database of UPC 
  * include many features: User sign-in/NoSQL database/user data storage/cloud logic
  * well integrated with Xcode for ios development
  * much easier to manage than Ruby on Rails backend but need to experiment more on what it can do
+
+
+## Database structure on [lucidchart](https://www.lucidchart.com/documents/edit/b06c6a12-68ec-409b-8459-a2c6f52556be)
+ ![alt text] (https://github.com/MaxKaye/ctcornellrecall/blob/master/img/database%20stucture.png "database structure")
+
+* how the data flows
+ * user made a new purchse:
+   Purchase history database updates --> check with current FDA recalls --> if UPC code match and purchase data is after the recall --> issue user alert (product name/product image/reason of recall)
+ * web scrapper detects FDA releases new recall:
+   current FDA recalls database update --> check with purchase history --> if UPC code match --> issue user alert (product name/product image/reason of recall)
+* questions remained: 
+ * haven't find reliable source for UPC code look up 
+ * where to get itemized user purchase data
+ * how to scrape FDA website and determine frequency of database updates: every few hours/every morning/everytime app is opened?
