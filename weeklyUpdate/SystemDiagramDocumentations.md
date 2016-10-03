@@ -2,7 +2,7 @@
 ## FDA recall data base
 * [FDA Immediate relase](http://www.fda.gov/Food/RecallsOutbreaksEmergencies/Recalls/default.htm): 
  * Pros: Updated at the moment of issue. Has pictures.  
- * Cons:Data pattern varies for each entry. Would be hard for scraping.
+ * Cons: Data pattern varies for each entry. Would be hard for scraping.
 * [Weekly report] (http//www.accessdata.fda.gov/scripts/ires/index.cfm): Updated weekly. 
  * Well organized but need to download CSV file to see.
 * [official? API](https://open.fda.gov/food/enforcement/reference/): Very well documented. The API team is still active on [twitter](https://twitter.com/openFDA).
@@ -16,7 +16,7 @@ NOTE: all of the following look up site may not have a complete database of UPC 
  * JSON example: {"valid":"true","number":"0111222333446","itemname":"UPC Database Testing Code","alias":"Testing Code","description":"http:\/\/upcdatabase.org\/code\/0111222333446","avg_price":"123.45","rate_up":0,"rate_down":0}
  * Pros: FREE
  * Cons: have seen this webside down multiple times (usually for one minute)
-* [another look uo API called barcodelookup](https://www.barcodelookup.com/api)
+* [another look up API called barcodelookup](https://www.barcodelookup.com/api)
  * Pros: more sophisticated API return
  * Cons: NOT FREE
 * [index](https://info.indix.com/upc-lookup-demo?utm_campaign=Search-Product-Identifier-UPC|UPC-Code-Lookup&utm_source=ppc&gclid=Cj0KEQjwg8i_BRCT9dHt5ZSGi90BEiQAItdjpPA_yJyegmMiGFtiL_sZuIKbROWcl3pT1-6EsU6YZDwaAmzX8P8HAQ):
@@ -38,7 +38,7 @@ NOTE: all of the following look up site may not have a complete database of UPC 
    Purchase history database updates --> check with current FDA recalls --> if UPC code match and purchase data is after the recall --> issue user alert (product name/product image/reason of recall)
  * web scrapper detects FDA releases new recall:
    current FDA recalls database update --> check with purchase history --> if UPC code match --> issue user alert (product name/product image/reason of recall)
-* questions remained: 
+* Remaining Questions: 
  * haven't find reliable source for UPC code look up 
  * where to get itemized user purchase data
  * how to scrape FDA website and determine frequency of database updates: every few hours/every morning/everytime app is opened?
