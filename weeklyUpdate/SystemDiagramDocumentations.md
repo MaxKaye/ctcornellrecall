@@ -1,4 +1,4 @@
-# System Diagram Comonents 
+# System Diagram Components 
 ## FDA recall data base
 * [Immediate relase](http://www.fda.gov/Safety/Recalls/default.htm): 
  Pros: Updated at the moment of issue. Has pictures.  
