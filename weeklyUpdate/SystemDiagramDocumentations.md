@@ -1,6 +1,7 @@
 # System Diagram Components 
 ## FDA recall data base
 * [FDA Immediate relase](http://www.fda.gov/Food/RecallsOutbreaksEmergencies/Recalls/default.htm): 
+ * [Rushabh]: Also: https://www.foodsafety.gov/recalls/alerts/index.html & http://www2c.cdc.gov/podcasts/createrss.asp?c=146
  * Pros: Updated at the moment of issue. Has pictures.  
  * Cons: Data pattern varies for each entry. Would be hard for scraping.
 * [Weekly report] (http//www.accessdata.fda.gov/scripts/ires/index.cfm): Updated weekly. 
