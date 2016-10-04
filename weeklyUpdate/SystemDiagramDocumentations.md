@@ -10,10 +10,28 @@
  * mainly for recalls because of undeclared ingredients that cause allergies
  * can sign up for email alers
 
+* expected sample JSON from FDA
+> {
+“Company Recall Name”: “Tyson Co.”
+“Item Recalled: “Chicken Nuggets”,
+“Date Recalled”: “09/28/16 @ 4pm”,
+“Reason for Recall”: “Didn’t declare milk as ingredient in packaging”
+“Class”: I/II/III
+“Product Code”:  G264A12A 
+“UPC Code”: 
+“Use by Date”: 10/08/16
+ “Possible Distribution States”: “AL”, “FL”, “GA”, “NC”, “SC”, “TN”
+“Expiration Date Range”: 11/2016 - 8/2018
+“Company Contact”: 949-646-4628
+}
+
 ## UPC code
 NOTE: all of the following look up site may not have a complete database of UPC codes. Many of the UPC code on FDA website cannot be found.
 * [a look up API called upcdatabase](http://upcdatabase.org/api):
- * JSON example: {"valid":"true","number":"0111222333446","itemname":"UPC Database Testing Code","alias":"Testing Code","description":"http:\/\/upcdatabase.org\/code\/0111222333446","avg_price":"123.45","rate_up":0,"rate_down":0}
+
+JSON example:
+> {"valid":"true","number":"0111222333446","itemname":"UPC Database Testing Code","alias":"Testing Code","description":"http:\/\/upcdatabase.org\/code\/0111222333446","avg_price":"123.45","rate_up":0,"rate_down":0}
+ 
  * Pros: FREE
  * Cons: have seen this webside down multiple times (usually for one minute)
 * [another look up API called barcodelookup](https://www.barcodelookup.com/api)
@@ -42,3 +60,10 @@ NOTE: all of the following look up site may not have a complete database of UPC 
  * haven't find reliable source for UPC code look up 
  * where to get itemized user purchase data
  * how to scrape FDA website and determine frequency of database updates: every few hours/every morning/everytime app is opened?
+ * should we show a "safe to eat" sign if nothing is recalled
+ 
+## Future thoughts
+* B2B model integrating with POS system:
+Receive customer’s items purchased by using information from receipt items from QR code on Customer Receipt. Also, we need to figure out if the purchase number that shows up on the POS system would be helpful as well in tracking and then returning the food item.
+* The FDA website always says “please return the product to your retailer for a full refund or replacement” but are we going to change this? Incentivize customers by instantly returning the product? This saves them time returning the product.
+
