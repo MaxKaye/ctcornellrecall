@@ -52,9 +52,9 @@ JSON example:
  ![alt text] (https://github.com/MaxKaye/ctcornellrecall/blob/master/img/database%20stucture.png "database structure")
 
 * how the data flows
- * user made a new purchse:
+ * user made a new purchase:
    Purchase history database updates --> check with current FDA recalls --> if UPC code match and purchase data is after the recall --> issue user alert (product name/product image/reason of recall)
- * web scrapper detects FDA releases new recall:
+ * web scraper detects FDA releases new recall:
    current FDA recalls database update --> check with purchase history --> if UPC code match --> issue user alert (product name/product image/reason of recall)
 * Remaining Questions: 
  * haven't find reliable source for UPC code look up 
