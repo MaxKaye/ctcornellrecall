@@ -9,7 +9,7 @@
 
 
 ### Plan for next week
-*
+* 
 
 ### Risks
 * 
